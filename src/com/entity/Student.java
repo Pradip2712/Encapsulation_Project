@@ -2,7 +2,7 @@ package com.entity;
 
 //POJO CLASS
 public class Student {
-	
+	//aaaaaaasdfghjwzxecrfvg
 //ALL VARIABLES ARE PRIVATE
 	private String name;
 	private int rollNo;
