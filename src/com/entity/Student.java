@@ -1,6 +1,7 @@
 package com.entity;
 
 //POJO CLASS
+//bbbbbbbbbbbbbbbbbbbbbbbbbbb
 public class Student {
 	
 //ALL VARIABLES ARE PRIVATE
